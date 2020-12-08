@@ -1,0 +1,396 @@
+@import "reset.css";
+@import "../fonts/fonts.css";
+/* .vector
+{
+position: fixed;
+left: 48.90%;
+right: 0.21%;
+top: 9.96%;
+bottom: 45.56%;
+}
+
+.rog {
+position: fixed;
+left: 586.16px;
+right: 5.01%;
+top: 19px;
+}
+
+.chelka {
+position: fixed;;
+left: 74.26%;
+right: 1.88%;
+top: 12.90%;
+bottom: 81.15%;
+}
+
+.glaz {
+position: fixed;;
+left: 70.84%;
+right: 21.09%;
+top: 39.22%;
+bottom: 59.98%;
+}
+
+.glazik {
+position: fixed;;
+left: 78.22%;
+right: 18.93%;
+top: 48.40%;
+bottom: 73.42%;
+}
+
+.nose {
+position: fixed;;
+left: 83.51%;
+right: 6.39%;
+top: 62.66%;
+bottom: 62.3%;
+}
+
+.kvadrat {
+position: fixed;;
+left: 48.81%;
+right: 23.68%;
+top: 48.02%;
+bottom: 49.75%;
+}
+
+.oval {
+position: fixed;;
+left: 41.90%;
+right: 38.34%;
+top: 50.60%;
+bottom: 53.45%;
+}
+
+.glaz2 {
+position: fixed;;
+left: 1095px;
+top: 662px;
+}
+
+.vulcano {
+position: fixed;
+z-index: 4;
+left: 3.71%;
+right: 62.26%;
+top: 49%;
+bottom: 5.49%;
+}
+
+.krylo {
+position: fixed;
+z-index: 3;
+width: 727.35px;
+height: 565.67px;
+left: 106.70px;
+top: 223.51px;
+}
+
+.star {
+position: fixed;
+z-index:-1;
+left: -5.50%;
+right: 80.93%;
+top: 15.75%;
+bottom: 58.17%;
+}
+
+.hand2 {
+position: fixed;
+left: 4.50px;
+right: 42.27px;
+top: 22px;
+}
+
+.hand {
+position: fixed;
+left: 4.50px;
+right: 69.26%;
+top: 30px;
+}
+
+.hand {
+position: fixed;
+left: 4.50px;
+right: 69.26%;
+top: 30px;
+} */
+
+.vector
+{
+position: absolute;
+left: 49.50%;
+right: 0.21%;
+top: 9.96%;
+bottom: 45.56%;
+}
+
+.rog {
+position: absolute;
+left: 586.16px;
+right: 5.01%;
+top: 19px;
+}
+
+.chelka {
+position: absolute;
+left: 75.10%;
+right: 1.88%;
+top: 12.90%;
+bottom: 81.15%;
+}
+
+.glaz {
+position: absolute;
+left: 71.50%;
+right: 21.09%;
+top: 39.88%;
+bottom: 59.98%;
+}
+
+.glazik {
+position: absolute;
+left: 78.92%;
+right: 18.93%;
+top: 49.23%;
+bottom: 73.42%;
+}
+
+.nose {
+position: absolute;
+left: 84.60%;
+right: 6.39%;
+top: 64%;
+bottom: 62.3%;
+}
+
+.kvadrat {
+position: absolute;
+left: 48.81%;
+right: 23.68%;
+top: 48.02%;
+bottom: 49.75%;
+}
+
+.oval {
+position: absolute;
+left: 41.90%;
+right: 38.34%;
+top: 50.60%;
+bottom: 53.45%;
+}
+
+.glaz2 {
+position: absolute;
+left: 1095px;
+top: 662px;
+}
+
+.vulcano {
+position: absolute;
+z-index: 4;
+left: 3.71%;
+right: 62.26%;
+top: 50%;
+bottom: 5.49%;
+}
+
+.krylo {
+position: absolute;
+z-index: 3;
+width: 727.35px;
+height: 565.67px;
+left: 106.70px;
+top: 223.51px;
+}
+
+.star {
+position: absolute;
+z-index:-1;
+left: -5.50%;
+right: 80.93%;
+top: 15.75%;
+bottom: 58.17%;
+}
+
+.star:hover {
+transform: rotate(70deg);
+
+}
+
+.hand2 {
+position: absolute;
+left: 4.50px;
+right: 42.27px;
+top: 22px;
+}
+
+.hand {
+position: absolute;
+left: 4.50px;
+right: 69.26%;
+top: 30px;
+}
+
+.hand {
+position: absolute;
+left: 4.50px;
+right: 69.26%;
+top: 30px;
+}
+
+.face {
+position: absolute;
+left: 12.50%;
+right: 33.97%;
+top: 100%;
+bottom: 5.77%;
+}
+
+.ear {
+position: absolute;
+left: 10px;
+top: 936px;
+}
+
+.crown {
+position: absolute;
+left: 639px;
+top: 757.19px;
+}
+
+.brow {
+position: absolute;
+left: 418px;
+right: 60.39%;
+top: 112.60%;
+bottom: 42.65%;
+}
+
+.brow2 {
+position: absolute;
+left: 41.50%;
+right: 47.4%;
+top: 122%;
+bottom: 37.68%;
+}
+
+.brow3 {
+position: absolute;
+left: 40.50%;
+right: 48.44%;
+top: 128%;
+bottom: 34.85%;
+}
+
+.glazniza {
+position: absolute;
+left: 510px;
+top: 1084.64px;
+}
+
+.glazok {
+position: absolute;
+left: 580px;
+right: 813.32px;
+top: 1164px;
+bottom: 446.32px;
+}
+
+.drop {
+position: absolute;
+left: 506px;
+right: 901.83px;
+top: 1200.33px;
+bottom: 395.56px;
+}
+
+.rot {
+position: absolute;
+left: 280px;
+right: 790.98px;
+top: 1230.74px;
+bottom: 63.39px;
+}
+
+.figure {
+position: absolute;
+left: 340px;
+right: 918.17px;
+top: 1010px;
+bottom: 453.69px;
+}
+
+.circle {
+position: absolute;
+left: 315px;
+right: 892.76px;
+top: 979px;
+bottom: 405.48px;
+}
+
+.sheka {
+position: absolute;
+left: 220px;
+right: 1062.27px;
+top: 1146px;
+bottom: 320.9px;
+}
+
+.ear2 {
+position: absolute;
+left: 689px;
+right: 464.12px;
+top: 1077.58px;
+bottom: 261.52px;
+}
+
+.shoe {
+position: absolute;
+left: 965.5px;
+top: 1068.97px;
+}
+
+.star2 {
+position: absolute;
+left: 1288px;
+top: 1247.76px;
+}
+
+.rec1 {
+position: absolute;
+z-index: 7;
+width:342.50px;
+height:265px;
+top:570.50px;
+left:35.50px;
+/* background: #EBFF00; */
+opacity: 100%;
+}
+.rec1:hover {
+  /* filter: hue-rotate(140deg); */
+  background: #EBFF00;
+}
+
+.setka {
+position: absolute;
+z-index: 6;
+left: 8px;
+top: 50px;
+}
+
+.text {
+font-family:"HelveticaNeueCyr-Roman";
+color:black;
+font-size: 15px;
+margin bottom: 100px;
+padding: 50px;
+}
+
+/* color:black;
+font-size: 15px;
+margin bottom: 100px;
+padding: 50px;
+font-weight:lighter; */

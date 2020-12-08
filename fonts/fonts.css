@@ -1,0 +1,13 @@
+/* @font-face {
+	font-family: 'HelveticaNeueCyr-Roman';
+	src: url('fonts/HelveticaNeueCyr-Roman.ttf')
+	src: Local ('0'), url('fonts//HelveticaNeueCyr-Roman.ttf') format (ttf), url(fonts/HelveticaNeueCyr-Roman.ttf)
+	font-weight: normal;
+	font-style: normal;
+} */
+@font-face {
+  font-family: 'HelveticaNeueCyr-Roman', sans-serif;
+  src: url('HelveticaNeueCyr-Roman.ttf')
+	format('truetype');
+  /* font-weight: normal; */
+	}
