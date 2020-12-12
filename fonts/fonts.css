@@ -6,8 +6,8 @@
 	font-style: normal;
 } */
 @font-face {
-  font-family: 'HelveticaNeueCyr-Roman', sans-serif;
-  src: url('HelveticaNeueCyr-Roman.ttf')
-	format('truetype');
+  font-family: 'Helvetica', sans-serif;
+  /* src: url('HelveticaNeueCyr-Roman.ttf') */
+	/* format('truetype'); */
   /* font-weight: normal; */
 	}
